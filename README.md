@@ -7,13 +7,13 @@
 
 * **Authors:** Tulika Saha, Aditya Patra, Sriparna Saha and Pushpak Bhattacharyya
 * **Affiliation:** Indian Institute of Technology Patna, India
-* **Corresponding Author:** [Tulika Saha](sahatulika15@gmail.com / tulika.pcs16@iitp.ac.in)
+* **Corresponding Author:** [Tulika Saha](sahatulika15@gmail.com)
 * **Accepted(July, 2020):**  [Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics(ACL)](https://www.aclweb.org/anthology/2020.acl-main.402/)
 
 If you consider this dataset useful, please cite it as
 
 ```bash
-@@inproceedings{saha-etal-2020-towards,
+@inproceedings{saha-etal-2020-towards,
     title = "Towards Emotion-aided Multi-modal Dialogue Act Classification",
     author = "Saha, Tulika  and
       Patra, Aditya  and
